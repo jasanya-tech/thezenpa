@@ -10,17 +10,16 @@ class CreateTbmSettleRequestTable extends Migration
     {
         Schema::create('tbm_settle_request', function (Blueprint $table) {
 
-            $table->string('bankname', 100)->nullable()->default('NULL');
-            $table->string('bankacct', 50)->nullable()->default('NULL');
-            $table->string('accholder', 100)->nullable()->default('NULL');
-            $table->string('swfcode', 15)->nullable()->default('NULL');
-            $table->string('filename', 250)->nullable()->default('NULL');
-            $table->datetime('trxdate')->nullable()->default('NULL');
+            $table->string('bankname', 100)->nullable()->default(null);
+            $table->string('bankacct', 50)->nullable()->default(null);
+            $table->string('accholder', 100)->nullable()->default(null);
+            $table->string('swfcode', 15)->nullable()->default(null);
+            $table->string('filename', 250)->nullable()->default(null);
+            $table->datetime('trxdate')->nullable()->default(null);
             $table->increments("trxid");
-            $table->string('stl_status', 15)->nullable()->default('NULL');
-            $table->string('biller_code', 30)->nullable()->default('NULL');
-            $table->string('phone', 30)->nullable()->default('NULL');
-            $table->primary('trxid');
+            $table->string('stl_status', 15)->nullable()->default(null);
+            $table->string('biller_code', 30)->nullable()->default(null);
+            $table->string('phone', 30)->nullable()->default(null);
         });
     }
 

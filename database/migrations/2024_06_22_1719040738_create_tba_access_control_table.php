@@ -10,8 +10,8 @@ class CreateTbaAccessControlTable extends Migration
     {
         Schema::create('tba_access_control', function (Blueprint $table) {
             $table->increments("lognum");
-            $table->datetime('logdtime')->nullable()->default('NULL');
-            $table->string('uname', 150)->nullable()->default('NULL');
+            $table->datetime('logdtime')->nullable()->default(null);
+            $table->string('uname', 150)->nullable()->default(null);
         });
     }
 

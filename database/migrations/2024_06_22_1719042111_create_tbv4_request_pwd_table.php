@@ -15,7 +15,6 @@ class CreateTbv4RequestPwdTable extends Migration
             $table->datetime('reqtime');
             $table->datetime('exptime');
             $table->increments("logid");
-            $table->primary('logid');
         });
     }
 

@@ -11,9 +11,8 @@ class CreateTbmBillerMailTable extends Migration
         Schema::create('tbm_biller_mail', function (Blueprint $table) {
 
             $table->string('biller_code', 20);
-            $table->text('mailcontent')->nullable()->default('NULL');
+            $table->text('mailcontent')->nullable()->default(null);
             $table->increments("logmail");
-            $table->primary('logmail');
         });
     }
 

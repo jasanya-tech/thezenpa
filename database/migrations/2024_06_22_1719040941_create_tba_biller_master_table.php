@@ -14,9 +14,8 @@ class CreateTbaBillerMasterTable extends Migration
             $table->string('biller_exchange', 20);
             $table->string('biller_seller', 20);
             $table->string('biller_name', 200);
-            $table->integer('biller_group_code', 4)->nullable()->default('NULL');
+            $table->integer('biller_group_code')->nullable()->default(null);
             $table->string('biller_gateway', 4)->default('ZENP');
-            $table->primary('biller_id');
         });
     }
 

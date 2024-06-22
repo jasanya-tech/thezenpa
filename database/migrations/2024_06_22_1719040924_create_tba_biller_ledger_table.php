@@ -10,14 +10,12 @@ class CreateTbaBillerLedgerTable extends Migration
     {
         Schema::create('tba_biller_ledger', function (Blueprint $table) {
 
-		$table->integer('biller_code',11);
-		$table->string('biller_seller',29);
-		$table->date('biller_date');
-		;
-		$table->string('biller_trx_type',2)->nullable()->default('NULL');
-		$table->string('biller_trx_desc',100)->nullable()->default('NULL');
-		$table->string('biller_trx_ref',25)->nullable()->default('NULL');
-
+            $table->integer('biller_code', 11);
+            $table->string('biller_seller', 29);
+            $table->date('biller_date');;
+            $table->string('biller_trx_type', 2)->nullable()->default(null);
+            $table->string('biller_trx_desc', 100)->nullable()->default(null);
+            $table->string('biller_trx_ref', 25)->nullable()->default(null);
         });
     }
 

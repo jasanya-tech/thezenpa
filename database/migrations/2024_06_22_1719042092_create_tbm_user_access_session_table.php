@@ -11,10 +11,9 @@ class CreateTbmUserAccessSessionTable extends Migration
         Schema::create('tbm_user_access_session', function (Blueprint $table) {
 
             $table->string('userid', 100)->default('');
-            $table->string('login_session', 100)->nullable()->default('NULL');
-            $table->datetime('session_in_dtime')->nullable()->default('NULL');
+            $table->string('login_session', 100)->nullable()->default(null);
+            $table->datetime('session_in_dtime')->nullable()->default(null);
             $table->increments("logid");
-            $table->primary('logid');
         });
     }
 

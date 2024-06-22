@@ -10,14 +10,13 @@ class CreateTbmFpxtrxSettlementTable extends Migration
     {
         Schema::create('tbm_fpxtrx_settlement', function (Blueprint $table) {
 
-            $table->string('rsp_biller_code', 20)->nullable()->default('NULL');
+            $table->string('rsp_biller_code', 20)->nullable()->default(null);
             $table->string('rsp_order_no', 30)->default('');
-            $table->string('rsp_fpx_id', 30)->nullable()->default('NULL');
-            $table->string('trx_settlement_status', 1)->nullable()->default('NULL');
-            $table->date('trx_settlement_date')->nullable()->default('NULL');
+            $table->string('rsp_fpx_id', 30)->nullable()->default(null);
+            $table->string('trx_settlement_status', 1)->nullable()->default(null);
+            $table->date('trx_settlement_date')->nullable()->default(null);
             $table->increments("trx_ref_id");
-            $table->string('trx_ref_doc', 30)->nullable()->default('NULL');
-            $table->primary('trx_ref_id');
+            $table->string('trx_ref_doc', 30)->nullable()->default(null);
         });
     }
 

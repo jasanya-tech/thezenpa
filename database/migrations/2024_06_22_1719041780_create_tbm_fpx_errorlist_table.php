@@ -9,11 +9,9 @@ class CreateTbmFpxErrorlistTable extends Migration
     public function up()
     {
         Schema::create('tbm_fpx_errorlist', function (Blueprint $table) {
-
-		$table->string('error_code',3);
-		$table->string('error_desc',60);
-		$table->primary('error_code');
-
+            $table->string('error_code', 3);
+            $table->string('error_desc', 60);
+            $table->primary('error_code');
         });
     }
 

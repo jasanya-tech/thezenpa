@@ -9,11 +9,9 @@ class CreateTbaOrgTypeTable extends Migration
     public function up()
     {
         Schema::create('tba_org_type', function (Blueprint $table) {
-
-		$table->integer('type_id',1);
-		$table->string('type_name',60);
-		$table->primary('type_id');
-
+            $table->tinyInteger('type_id');
+            $table->string('type_name', 60);
+            $table->primary('type_id');
         });
     }
 

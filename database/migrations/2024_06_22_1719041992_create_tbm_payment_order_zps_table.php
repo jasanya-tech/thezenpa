@@ -10,14 +10,13 @@ class CreateTbmPaymentOrderZpsTable extends Migration
     {
         Schema::create('tbm_payment_order_zps', function (Blueprint $table) {
 
-		$table->string('sellerID',15);
-		$table->string('biller_code',15);
-		$table->string('aplnID',15);
-		$table->string('payrefID',32);
-		$table->string('orderID',50)->nullable()->default('NULL');
-		$table->datetime('reqdate')->nullable()->default('NULL');
-		$table->primary('payrefID');
-
+            $table->string('sellerID', 15);
+            $table->string('biller_code', 15);
+            $table->string('aplnID', 15);
+            $table->string('payrefID', 32);
+            $table->string('orderID', 50)->nullable()->default(null);
+            $table->datetime('reqdate')->nullable()->default(null);
+            $table->primary('payrefID');
         });
     }
 

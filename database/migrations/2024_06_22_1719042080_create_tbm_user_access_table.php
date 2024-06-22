@@ -10,15 +10,14 @@ class CreateTbmUserAccessTable extends Migration
     {
         Schema::create('tbm_user_access', function (Blueprint $table) {
 
-		$table->string('userid',100)->default('');
-		$table->string('userpwd',100)->nullable()->default('NULL');
-		$table->string('usergrp',1)->nullable()->default('NULL');
-		$table->string('username',100)->nullable()->default('NULL');
-		$table->string('usermail',100)->nullable()->default('NULL');
-		$table->integer('userskop',5)->nullable()->default('NULL');
-		$table->string('usermenu',50)->nullable()->default('NULL');
-		$table->primary('userid');
-
+            $table->string('userid', 100)->default('');
+            $table->string('userpwd', 100)->nullable()->default(null);
+            $table->string('usergrp', 1)->nullable()->default(null);
+            $table->string('username', 100)->nullable()->default(null);
+            $table->string('usermail', 100)->nullable()->default(null);
+            $table->tinyInteger('userskop')->nullable()->default(null);
+            $table->string('usermenu', 50)->nullable()->default(null);
+            $table->primary('userid');
         });
     }
 

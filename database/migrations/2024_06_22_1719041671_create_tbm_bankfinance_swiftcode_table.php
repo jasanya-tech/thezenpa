@@ -10,12 +10,11 @@ class CreateTbmBankfinanceSwiftcodeTable extends Migration
     {
         Schema::create('tbm_bankfinance_swiftcode', function (Blueprint $table) {
 
-		$table->string('bank_finance',100)->nullable()->default('NULL');
-		$table->string('city',100)->nullable()->default('NULL');
-		$table->string('branch',100)->nullable()->default('NULL');
-		$table->string('swiftcode',15);
-		$table->primary('swiftcode');
-
+            $table->string('bank_finance', 100)->nullable()->default(null);
+            $table->string('city', 100)->nullable()->default(null);
+            $table->string('branch', 100)->nullable()->default(null);
+            $table->string('swiftcode', 15);
+            $table->primary('swiftcode');
         });
     }
 

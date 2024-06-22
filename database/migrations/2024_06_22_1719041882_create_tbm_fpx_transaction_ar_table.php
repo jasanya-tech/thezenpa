@@ -14,16 +14,15 @@ class CreateTbmFpxTransactionArTable extends Migration
             $table->string('trx_sellerid', 20);
             $table->increments("trx_id");
             $table->string('trx_payer_ref', 25);
-            $table->string('trx_order_no', 30)->nullable()->default('NULL');
-            $table->datetime('trx_datetime')->nullable()->default('NULL');
-            $table->string('trx_payer_id', 15)->nullable()->default('NULL');
+            $table->string('trx_order_no', 30)->nullable()->default(null);
+            $table->datetime('trx_datetime')->nullable()->default(null);
+            $table->string('trx_payer_id', 15)->nullable()->default(null);
             $table->string('trx_mode', 10)->default('FPXB2C');
-            $table->string('trx_bankid', 15)->nullable()->default('NULL');
-            $table->string('trx_app_id', 20)->nullable()->default('NULL');
-            $table->string('trx_email', 65)->nullable()->default('NULL');
-            $table->string('trx_return_url', 200)->nullable()->default('NULL');
-            $table->string('trx_biller_id', 30)->nullable()->default('NULL');
-            $table->primary('trx_id');
+            $table->string('trx_bankid', 15)->nullable()->default(null);
+            $table->string('trx_app_id', 20)->nullable()->default(null);
+            $table->string('trx_email', 65)->nullable()->default(null);
+            $table->string('trx_return_url', 200)->nullable()->default(null);
+            $table->string('trx_biller_id', 30)->nullable()->default(null);
         });
     }
 
