@@ -1,0 +1,33 @@
+{
+"tba_access_control": [
+	{
+		"lognum" : 1001,
+		"logdtime" : "2023-07-31 00:06:41",
+		"uname" : null
+	},
+	{
+		"lognum" : 1002,
+		"logdtime" : "2023-07-31 00:06:41",
+		"uname" : null
+	},
+	{
+		"lognum" : 1003,
+		"logdtime" : "2023-07-31 00:30:46",
+		"uname" : "SAUJANA MESRA  SDN BHD"
+	},
+	{
+		"lognum" : 1004,
+		"logdtime" : "2023-08-03 15:29:19",
+		"uname" : "Zaaspay Solution Sdn Bhd"
+	},
+	{
+		"lognum" : 1005,
+		"logdtime" : "2024-01-14 16:40:20",
+		"uname" : "Maya Wang Sdn Bhd"
+	},
+	{
+		"lognum" : 1006,
+		"logdtime" : "2024-05-08 21:29:50",
+		"uname" : "Maya Wang Sdn Bhd"
+	}
+]}

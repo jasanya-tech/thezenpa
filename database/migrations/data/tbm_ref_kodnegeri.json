@@ -1,0 +1,73 @@
+{
+"tbm_ref_kodnegeri": [
+	{
+		"kodngr" : "JHR",
+		"nama_negeri" : "Johor",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "KDH",
+		"nama_negeri" : "Kedah",
+		"idx" : 2
+	},
+	{
+		"kodngr" : "KTN",
+		"nama_negeri" : "Kelantan",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "MLK",
+		"nama_negeri" : "Melaka",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "NGS",
+		"nama_negeri" : "Negeri Sembilan",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "PHG",
+		"nama_negeri" : "Pahang",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "PLS",
+		"nama_negeri" : "Perlis",
+		"idx" : 1
+	},
+	{
+		"kodngr" : "PPG",
+		"nama_negeri" : "Pulau Pinang",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "PRK",
+		"nama_negeri" : "Perak",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "SLG",
+		"nama_negeri" : "Selangor",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "TRG",
+		"nama_negeri" : "Terengganu",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "WKL",
+		"nama_negeri" : "Kuala Lumpur",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "WLB",
+		"nama_negeri" : "Labuan",
+		"idx" : 0
+	},
+	{
+		"kodngr" : "WPJ",
+		"nama_negeri" : "Putrajaya",
+		"idx" : 0
+	}
+]}

@@ -1,0 +1,11 @@
+{
+"tba_org_type": [
+	{
+		"type_id" : 1,
+		"type_name" : "Business\/Trading Company"
+	},
+	{
+		"type_id" : 2,
+		"type_name" : "Charity\/NGO\/Welfare"
+	}
+]}

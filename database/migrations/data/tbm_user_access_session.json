@@ -1,0 +1,27 @@
+{
+"tbm_user_access_session": [
+	{
+		"userid" : "ABX001",
+		"login_session" : "20230730024935051667",
+		"session_in_dtime" : "2023-07-30 10:49:35",
+		"logid" : 1
+	},
+	{
+		"userid" : "ABX001",
+		"login_session" : "20230730030351076971",
+		"session_in_dtime" : "2023-07-30 11:03:51",
+		"logid" : 2
+	},
+	{
+		"userid" : "ABX001",
+		"login_session" : "20230730030504013949",
+		"session_in_dtime" : "2023-07-30 11:05:04",
+		"logid" : 3
+	},
+	{
+		"userid" : "ABX001",
+		"login_session" : "20230730041317013945",
+		"session_in_dtime" : "2023-07-30 12:13:17",
+		"logid" : 4
+	}
+]}

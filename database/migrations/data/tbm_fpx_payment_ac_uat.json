@@ -1,0 +1,57 @@
+{
+"tbm_fpx_payment_ac_uat": [
+	{
+		"rsp_exchangeid" : "EX00012484",
+		"rsp_sellerid" : "SE00014002",
+		"rsp_order_no" : "EZP210908000008",
+		"rsp_datetime" : "2021-09-08 23:59:17",
+		"rsp_amt" : 50.0,
+		"rsp_status" : "SUCCESSFUL",
+		"rsp_st_code" : "00",
+		"rsp_rsp_code" : null,
+		"rsp_bankcode" : "TEST0021",
+		"rsp_fpx_id" : "2109082359170180",
+		"rsp_bank_branch" : "SBI BANK A",
+		"rsp_paymode" : "FPXB2C",
+		"rsp_dt_authid" : "00",
+		"rsp_ct_authid" : null,
+		"rsp_from" : 2,
+		"rsp_dtime" : null
+	},
+	{
+		"rsp_exchangeid" : "EX00012484",
+		"rsp_sellerid" : "SE00014002",
+		"rsp_order_no" : "EZP210909000009",
+		"rsp_datetime" : "2021-09-09 20:49:42",
+		"rsp_amt" : 30000.0,
+		"rsp_status" : "SUCCESSFUL",
+		"rsp_st_code" : "00",
+		"rsp_rsp_code" : null,
+		"rsp_bankcode" : "TEST0021",
+		"rsp_fpx_id" : "2109092049420740",
+		"rsp_bank_branch" : "SBI BANK A",
+		"rsp_paymode" : "FPXB2C",
+		"rsp_dt_authid" : "00",
+		"rsp_ct_authid" : null,
+		"rsp_from" : 2,
+		"rsp_dtime" : null
+	},
+	{
+		"rsp_exchangeid" : "EX00012484",
+		"rsp_sellerid" : "SE00014002",
+		"rsp_order_no" : "EZP210909000010",
+		"rsp_datetime" : "2021-09-09 21:30:42",
+		"rsp_amt" : 1000.0,
+		"rsp_status" : "UNSUCCESSFUL",
+		"rsp_st_code" : "51",
+		"rsp_rsp_code" : null,
+		"rsp_bankcode" : "TEST0022",
+		"rsp_fpx_id" : "2109092130420920",
+		"rsp_bank_branch" : "SBI BANK B",
+		"rsp_paymode" : "FPXB2C",
+		"rsp_dt_authid" : "51",
+		"rsp_ct_authid" : null,
+		"rsp_from" : 2,
+		"rsp_dtime" : null
+	}
+]}

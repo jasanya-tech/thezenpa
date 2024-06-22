@@ -1,0 +1,27 @@
+{
+"tba_biller_master": [
+	{
+		"biller_id" : 2,
+		"biller_exchange" : "EX00011180",
+		"biller_seller" : "SE00047181",
+		"biller_name" : "IDEAL NIAGA NETWORK",
+		"biller_group_code" : 20002,
+		"biller_gateway" : "PAY4"
+	},
+	{
+		"biller_id" : 3,
+		"biller_exchange" : "EX00011180",
+		"biller_seller" : "SE00063983",
+		"biller_name" : "ZAASPAY SOLUTIONS",
+		"biller_group_code" : 20003,
+		"biller_gateway" : "PAY4"
+	},
+	{
+		"biller_id" : 4,
+		"biller_exchange" : "EX00013275",
+		"biller_seller" : "SE00075393",
+		"biller_name" : "ZENPAY SOLUTIONS",
+		"biller_group_code" : 20004,
+		"biller_gateway" : "ZENP"
+	}
+]}

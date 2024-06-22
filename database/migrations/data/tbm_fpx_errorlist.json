@@ -1,0 +1,159 @@
+{
+"tbm_fpx_errorlist": [
+	{
+		"error_code" : "00 ",
+		"error_desc" : "Approved"
+	},
+	{
+		"error_code" : "03 ",
+		"error_desc" : "Invalid Merchant"
+	},
+	{
+		"error_code" : "05 ",
+		"error_desc" : "Invalid Seller Or Acquiring Bank Code"
+	},
+	{
+		"error_code" : "09",
+		"error_desc" : "Transaction Pending"
+	},
+	{
+		"error_code" : "12",
+		"error_desc" : "Invalid Transaction"
+	},
+	{
+		"error_code" : "13",
+		"error_desc" : "Invalid Amount"
+	},
+	{
+		"error_code" : "14",
+		"error_desc" : "Invalid Buyer Account"
+	},
+	{
+		"error_code" : "20",
+		"error_desc" : "Invalid Response"
+	},
+	{
+		"error_code" : "30",
+		"error_desc" : "Format Error"
+	},
+	{
+		"error_code" : "31",
+		"error_desc" : "Invalid Bank"
+	},
+	{
+		"error_code" : "39",
+		"error_desc" : "No Credit Account"
+	},
+	{
+		"error_code" : "45",
+		"error_desc" : "Duplicate Seller Order Number"
+	},
+	{
+		"error_code" : "46",
+		"error_desc" : "Invalid Seller Exchange Or Seller"
+	},
+	{
+		"error_code" : "47",
+		"error_desc" : "Invalid Currency"
+	},
+	{
+		"error_code" : "48",
+		"error_desc" : "Maximum Transaction Limit Exceeded"
+	},
+	{
+		"error_code" : "49",
+		"error_desc" : "Merchant Specific Limit Exceeded"
+	},
+	{
+		"error_code" : "50",
+		"error_desc" : "Invalid Seller for Merchant Specific Limit"
+	},
+	{
+		"error_code" : "51",
+		"error_desc" : "Insufficient Funds"
+	},
+	{
+		"error_code" : "53",
+		"error_desc" : "No Buyer Account Number"
+	},
+	{
+		"error_code" : "57",
+		"error_desc" : "Transaction Not Permitted"
+	},
+	{
+		"error_code" : "58",
+		"error_desc" : "Transaction To Merchant Not Permitted"
+	},
+	{
+		"error_code" : "70 ",
+		"error_desc" : "Invalid Serial Number"
+	},
+	{
+		"error_code" : "76",
+		"error_desc" : "Transaction Not Found"
+	},
+	{
+		"error_code" : "77",
+		"error_desc" : "Invalid Buyer Name Or Buyer ID"
+	},
+	{
+		"error_code" : "78 ",
+		"error_desc" : "Decryption Failed"
+	},
+	{
+		"error_code" : "79",
+		"error_desc" : "Host Decline When Down"
+	},
+	{
+		"error_code" : "80",
+		"error_desc" : "Buyer Cancel Transaction"
+	},
+	{
+		"error_code" : "83",
+		"error_desc" : "Invalid Transaction Model"
+	},
+	{
+		"error_code" : "84",
+		"error_desc" : "Invalid Transaction Type"
+	},
+	{
+		"error_code" : "85",
+		"error_desc" : "Internal Error At Bank System"
+	},
+	{
+		"error_code" : "87 ",
+		"error_desc" : "Debit Failed Exception Handling"
+	},
+	{
+		"error_code" : "88",
+		"error_desc" : "Credit Failed Exception Handling"
+	},
+	{
+		"error_code" : "89 ",
+		"error_desc" : "Transaction Not Received Exception Handling"
+	},
+	{
+		"error_code" : "90 ",
+		"error_desc" : "Bank Internet Banking Unavailable"
+	},
+	{
+		"error_code" : "92",
+		"error_desc" : "Invalid Buyer Bank"
+	},
+	{
+		"error_code" : "96 ",
+		"error_desc" : "System Malfunction"
+	},
+	{
+		"error_code" : "98",
+		"error_desc" : "MAC Error"
+	},
+	{
+		"error_code" : "99",
+		"error_desc" : "Pending Authorization"
+	},
+	{
+		"error_code" : "BB ",
+		"error_desc" : "Blocked Bank"
+	}
+]}

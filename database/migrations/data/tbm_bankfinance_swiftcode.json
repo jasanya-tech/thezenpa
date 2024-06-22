@@ -1,0 +1,1047 @@
+{
+"tbm_bankfinance_swiftcode": [
+	{
+		"bank_finance" : "AFFIN BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PHBMMYKL"
+	},
+	{
+		"bank_finance" : "AFFIN HWANG ASSET MANAGEMENT BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HIMRMYKL"
+	},
+	{
+		"bank_finance" : "AFFIN HWANG INVESTMENT BANK BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HDSBMY2P"
+	},
+	{
+		"bank_finance" : "AFFIN ISLAMIC BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AIBBMYKL"
+	},
+	{
+		"bank_finance" : "AIA BHD.\t\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AIACMYKL"
+	},
+	{
+		"bank_finance" : "AL RAJHI BANKING AND INVESTMENT CORPORATION (MALAYSIA) BHD\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RJHIMYKL"
+	},
+	{
+		"bank_finance" : "ALLIANCE BANK MALAYSIA BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MFBBMYKL"
+	},
+	{
+		"bank_finance" : "ALLIANCE INVESTMENT BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBAMMYKL"
+	},
+	{
+		"bank_finance" : "ALLIANCE ISLAMIC BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "ALSRMYKL"
+	},
+	{
+		"bank_finance" : "AMBANK (M) BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "ARBKMYKL"
+	},
+	{
+		"bank_finance" : "AMBANK (M) BERHAD\t\t\t\t\t\t\t",
+		"city" : "LABUAN\t\t\t",
+		"branch" : "LABUAN OFFSHORE BRANCH (LICENSED LABUAN BANK NO.080097D)",
+		"swiftcode" : "ARBKMYKLLAB"
+	},
+	{
+		"bank_finance" : "AMBANK ISLAMIC BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AISLMYKL"
+	},
+	{
+		"bank_finance" : "AMINVESTMENT BANK BERHAD (FORMERLY KNOWN AS AMMERCHANT BANK BERHAD)\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AMMBMYKL"
+	},
+	{
+		"bank_finance" : "ASIA INVESTMENT BANKING CORPORATION\t\t\t\t\t\t\t\t\t\t\t\t\tLABUAN\t\t",
+		"city" : "LABUAN",
+		"branch" : "",
+		"swiftcode" : "ASNCMY2L"
+	},
+	{
+		"bank_finance" : "ASIA PACIFIC INVESTMENT BANK LTD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "ASPMMYKL"
+	},
+	{
+		"bank_finance" : "AXIATA GROUP BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AXGBMYKK"
+	},
+	{
+		"bank_finance" : "BANGKOK BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BKKBMYKL"
+	},
+	{
+		"bank_finance" : "BANK AL HABIB LIMITED\t\t\t\t\t\t\t",
+		"city" : "LABUAN\t\t\t\t\t\t\t\t\t\t\t",
+		"branch" : "",
+		"swiftcode" : "BAHLMY2A"
+	},
+	{
+		"bank_finance" : "BANK ISLAM MALAYSIA BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BIMBMYKL"
+	},
+	{
+		"bank_finance" : "BANK KERJASAMA RAKYAT MALAYSIA BERHAD (BANK RAKYAT)\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BKRMMYKL"
+	},
+	{
+		"bank_finance" : "BANK MUAMALAT MALAYSIA BERHAD (6175-W)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BMMBMYKL"
+	},
+	{
+		"bank_finance" : "BANK MUAMALAT MALAYSIA BERHAD (6175-W)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tTRADE FINANCE\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BMMBMYKLTFD"
+	},
+	{
+		"bank_finance" : "BANK NEGARA MALAYSIA\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BNMAMYK3"
+	},
+	{
+		"bank_finance" : "BANK NEGARA MALAYSIA\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BNMAMY2K"
+	},
+	{
+		"bank_finance" : "BANK NEGARA MALAYSIA\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tHEAD OFFICE\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BNMAMYKL"
+	},
+	{
+		"bank_finance" : "BANK OF AMERICA",
+		"city" : "MALAYSIA BERHAD\t\t\t\t\t",
+		"branch" : "KUALA LUMPUR",
+		"swiftcode" : "BOFAMY2XGRC"
+	},
+	{
+		"bank_finance" : "BANK OF AMERICA",
+		"city" : "MALAYSIA BERHAD\t\t\t\t\t",
+		"branch" : "KUALA LUMPUR",
+		"swiftcode" : "BOFAMY2XLMY"
+	},
+	{
+		"bank_finance" : "BANK OF AMERICA",
+		"city" : "MALAYSIA BERHAD\t\t\t\t\t",
+		"branch" : "KUALA LUMPUR",
+		"swiftcode" : "BOFAMY2X"
+	},
+	{
+		"bank_finance" : "BANK OF AMERICA",
+		"city" : "MALAYSIA BERHAD\t\t\t\t\t",
+		"branch" : "LABUAN",
+		"swiftcode" : "BOFAMY2XLBN"
+	},
+	{
+		"bank_finance" : "BANK OF CHINA (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BKCHMYKL"
+	},
+	{
+		"bank_finance" : "BANK OF CHINA (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tBANK OF CHINA MALAYSIA RMB CLEARING CENTER\t\t\t",
+		"swiftcode" : "BKCHMYKLCLR"
+	},
+	{
+		"bank_finance" : "BANK PERTANIAN MALAYSIA BERHAD-AGROBANK\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "",
+		"swiftcode" : "AGOBMYKL"
+	},
+	{
+		"bank_finance" : "\tBNP PARIBAS\t\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BNPAMYKA"
+	},
+	{
+		"bank_finance" : "BNP PARIBAS MALAYSIA BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BNPAMYKL"
+	},
+	{
+		"bank_finance" : "BNP PARIBAS MALAYSIA BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tBNPPM ISLAMIC BANKING WINDOW\t\t\t\t\t",
+		"swiftcode" : "BNPAMYKLSPI"
+	},
+	{
+		"bank_finance" : "CAGAMAS BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CAGAMYKL"
+	},
+	{
+		"bank_finance" : "CHINA CONSTRUCTION BANK (MALAYSIA) BERHAD\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PCBCMYKL"
+	},
+	{
+		"bank_finance" : "CHINA CONSTRUCTION BANK CORPORATION \t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\tBRANCH LABUAN\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PCBCMY22"
+	},
+	{
+		"bank_finance" : "CIB\t\t\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RINTMY22"
+	},
+	{
+		"bank_finance" : "\tCIMB BANK (L) LIMITED\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CIBBMYKA"
+	},
+	{
+		"bank_finance" : "CIMB BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CIBBMYKL"
+	},
+	{
+		"bank_finance" : "\tCIMB BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tSECURITIES BORROWING AND LENDING\t\t\t\t\t",
+		"swiftcode" : "CIBBMYKLSBL"
+	},
+	{
+		"bank_finance" : "\tCIMB BANK BERHAD",
+		"city" : "LABUAN \t\t\t",
+		"branch" : "OFFSHORE BRANCH\tLABUAN\t\t\t\t\t",
+		"swiftcode" : "CIBBMY2L"
+	},
+	{
+		"bank_finance" : "\tCIMB INVESTMENT BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "COIMMYKL"
+	},
+	{
+		"bank_finance" : "\tCIMB ISLAMIC BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CTBBMYKL"
+	},
+	{
+		"bank_finance" : "\tCIMB-PRINCIPAL ASSET MANAGEMENT BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CANHMYKL"
+	},
+	{
+		"bank_finance" : "CITIBANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "GEORGE TOWN\t",
+		"branch" : "PENANG BRANCH\t\t\t\t\t\t\t",
+		"swiftcode" : "CITIMYKLPEN"
+	},
+	{
+		"bank_finance" : "\tCITIBANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "JOHOR BAHRU\t",
+		"branch" : "\tJOHOR BAHRU BRANCH\t\t\t\t\t\t\t",
+		"swiftcode" : "CITIMYKLJOD"
+	},
+	{
+		"bank_finance" : "\tCITIBANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tJALAN AMPANG\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CITIMYKL"
+	},
+	{
+		"bank_finance" : "\tCITIBANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR\tLAB",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CITIMYKLLA"
+	},
+	{
+		"bank_finance" : "\tCREDIT SUISSE SECURITIES (MALAYSIA) SDN. BHD.\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CRESMYKL"
+	},
+	{
+		"bank_finance" : "\tDBS BANK LTD",
+		"city" : "LABUAN BRANCH\t\t\t\t\t",
+		"branch" : "LABUAN",
+		"swiftcode" : "DBSSMY2A"
+	},
+	{
+		"bank_finance" : "\tDEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "DEUTMYKLGMO"
+	},
+	{
+		"bank_finance" : "\tDEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "DEUTMYKLIBW"
+	},
+	{
+		"bank_finance" : "\tDEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "DEUTMYKL"
+	},
+	{
+		"bank_finance" : "DEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "DEUTMYKLDFS"
+	},
+	{
+		"bank_finance" : "DEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "INTERNATIONAL ISLAMIC BANKING",
+		"swiftcode" : "DEUTMYKLISB"
+	},
+	{
+		"bank_finance" : "\tDEUTSCHE BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\tLABUAN BRANCH\t\t\t\t\t\t\t",
+		"swiftcode" : "DEUTMYKLBLB"
+	},
+	{
+		"bank_finance" : "\tEUROPE-ASIA INVESTMENT BANK LIMITED\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "EUIEMY22"
+	},
+	{
+		"bank_finance" : "\tEXPORT-IMPORT BANK OF MALAYSIA BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "EXMBMYKL"
+	},
+	{
+		"bank_finance" : "\tFGV CAPITAL SDN. BHD.\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "FGVCMYKL"
+	},
+	{
+		"bank_finance" : "\tFGV HOLDINGS BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "FGVHMYKL"
+	},
+	{
+		"bank_finance" : "\tFIDELITY ASIA BANK LTD\t\t\t\t\t\t\t",
+		"city" : "LABUAN\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "FABEMY22"
+	},
+	{
+		"bank_finance" : "\tFINTECH BANK LTD.\t\t\t\t\t\t\t",
+		"city" : "LABUAN F.T.\t\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "FNTHMY2L"
+	},
+	{
+		"bank_finance" : "\tFIRST ABU DHABI BANK PJSC ( FORMERLY NATIONAL BANK OF ABU DHABI)\t",
+		"city" : "LABUAN\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "NBADMYKL"
+	},
+	{
+		"bank_finance" : "\tFIRST ABU DHABI BANK PJSC ( FORMERLY NATIONAL BANK OF ABU DHABI)\t",
+		"city" : "LABUAN\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "NBADMYKLLAU"
+	},
+	{
+		"bank_finance" : "\tGOLDEN TOUCH INVESTMENT BANK LIMITED\t\t\t\t\t",
+		"city" : "LABUAN\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "GTIVMY2L"
+	},
+	{
+		"bank_finance" : "\tHONG LEONG BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR\t\t\t\t\t\t\t\t\t\t",
+		"branch" : "",
+		"swiftcode" : "HLBBMYKL"
+	},
+	{
+		"bank_finance" : "\tHONG LEONG BANK BERHAD",
+		"city" : "LABUAN",
+		"branch" : "\tINTERNATIONAL BRANCH\tLABUAN\t\t\t\t\t\t",
+		"swiftcode" : "HLBLMY22"
+	},
+	{
+		"bank_finance" : "\tHONG LEONG INVESTMENT BANK BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HLIVMYKL"
+	},
+	{
+		"bank_finance" : "\tHONG LEONG ISLAMIC BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HLIBMYKL"
+	},
+	{
+		"bank_finance" : "\tHSBC (MALAYSIA) TRUSTEE BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HSTMMYKL"
+	},
+	{
+		"bank_finance" : "\tHSBC (MALAYSIA) TRUSTEE BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\tGLOBAL WEALTH SOLUTIONS\t\t\t\t\t\t\t",
+		"swiftcode" : "HSTMMYKLGWS"
+	},
+	{
+		"bank_finance" : "\tHSBC AMANAH MALAYSIA BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HMABMYKL"
+	},
+	{
+		"bank_finance" : "\tHSBC BANK MALAYSIA BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HBMBMYKL"
+	},
+	{
+		"bank_finance" : "\tI-VCAP MANAGEMENT SDN BHD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "IMSHMYK2"
+	},
+	{
+		"bank_finance" : "\tIBH INVESTMENT BANK LIMITED\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "IBHIMY2L"
+	},
+	{
+		"bank_finance" : "\tINDIA INTERNATIONAL BANK (MALAYSIA) BERHAD\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "IIMBMYKL"
+	},
+	{
+		"bank_finance" : "\tINDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tHEAD OFFICE\t\t\t\t\t\t\t\t",
+		"swiftcode" : "ICBKMYKL"
+	},
+	{
+		"bank_finance" : "\tINDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.\t",
+		"city" : "LABUAN",
+		"branch" : "\t\tLABUAN BRANCH\t\t\t\t\t\t\t",
+		"swiftcode" : "ICBKMYKLLAB"
+	},
+	{
+		"bank_finance" : "\tJ.P.MORGAN CHASE BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CHASMYKX"
+	},
+	{
+		"bank_finance" : "J.P.MORGAN CHASE BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tJPMORGAN SECURITIES - MALAYSIA\t\t\t\t\t",
+		"swiftcode" : "CHASMYKXSEC"
+	},
+	{
+		"bank_finance" : "\tJPMORGAN CHASE BANK",
+		"city" : "N.A.",
+		"branch" : "\t\t\t\t\t\t",
+		"swiftcode" : "CHASMY2A"
+	},
+	{
+		"bank_finance" : "KAF INVESTMENT BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "KAFBMYKL"
+	},
+	{
+		"bank_finance" : "KENANGA INVESTMENT BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "ECMLMYKL"
+	},
+	{
+		"bank_finance" : "\tKUALA LUMPUR KEPONG BERHAD\t\t\t\t\t",
+		"city" : "IPOH\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "KLKBMY2I"
+	},
+	{
+		"bank_finance" : "KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "KFHOMYKL"
+	},
+	{
+		"bank_finance" : "LBS\t\t\t\t\t\t\t\t\t",
+		"city" : "PETALING JAYA\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "LBGRMY22"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "BUTTERWORTH\t",
+		"branch" : "TRADE FINANCE CENTER\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLBWC"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "IPOH\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLIPH"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "JOHOR BAHRU\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLJOB"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KLANG\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPKG"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KOTA KINABALU",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLKIN"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKL"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tBANGSAR BARU BRANCH\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLBAN"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tBUKIT BINTANG BRANCH\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLBBG"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tCASH MANAGEMENT DEPARTMENT\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLWEB"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tCUSTODIAN SERVICES DEPARTMENT\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLCSD"
+	},
+	{
+		"bank_finance" : "MALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tKEPONG BRANCH\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLKEP"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tPRIVATE WEALTH MALAYSIA\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPWM"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tPUDU BRANCH\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPUD"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tSUBANG AIRPORT\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLSUB"
+	},
+	{
+		"bank_finance" : "MALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tTRADE FINANCE CENTER\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLKLC"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tWISMA SIME DARBY BRANCH\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLWSD"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "MELAKA\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLMAL"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PASIR GUDANG\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPSG"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PETALING JAYA\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPJY"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PETALING JAYA\t",
+		"branch" : "\tTRADE FINANCE CENTER\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPJC"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PETALING JAYA\t",
+		"branch" : "\tYONG SHOOK LIN BRANCH\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLYSL"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PULAU PINANG\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPEN"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "PULAU PINANG\t",
+		"branch" : "\tTRADE FINANCE CENTER\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLPGC"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "SEREMBAN\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLSBN"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "SHAH ALAM\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLSHA"
+	},
+	{
+		"bank_finance" : "\tMALAYAN BANKING BERHAD (MAYBANK)\t\t\t\t",
+		"city" : "SHAH ALAM\t",
+		"branch" : "\tTRADE FINANCE CENTER\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKLSAC"
+	},
+	{
+		"bank_finance" : "\tMALAYSIA AIRLINES BERHAD\t\t\t\t\t\t",
+		"city" : "SEPANG\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MAYHMY22"
+	},
+	{
+		"bank_finance" : "\tMANULIFE INVESTMENT MANAGEMENT (M) BERHAD\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MAMIMYKL"
+	},
+	{
+		"bank_finance" : "\tMAYBANK INTERNATIONAL (L) LTD.\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMYKA"
+	},
+	{
+		"bank_finance" : "\tMAYBANK INTERNATIONAL LABUAN BRANCH\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBBEMY2L"
+	},
+	{
+		"bank_finance" : "\tMAYBANK INVESTMENT BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBEAMYKL"
+	},
+	{
+		"bank_finance" : "\tMAYBANK ISLAMIC BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBISMYKL"
+	},
+	{
+		"bank_finance" : "\tMBSB BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AFBQMYKL"
+	},
+	{
+		"bank_finance" : "\tMEGA INTERNATIONAL COMMERCIAL BANK CO.LTD",
+		"city" : "LABUAN",
+		"branch" : "LABUAN",
+		"swiftcode" : "ICBCMY2L"
+	},
+	{
+		"bank_finance" : "\tMERCEDES-BENZ MALAYSIA SDN. BHD.\t\t\t\t\t",
+		"city" : "PUCHONG",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "DABEMYKL"
+	},
+	{
+		"bank_finance" : "\tMERCEDES-BENZ SERVICES MALAYSIA SDN. BHD.\t\t\t\t",
+		"city" : "PUCHONG",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBSMMYKL"
+	},
+	{
+		"bank_finance" : "\tMIDDLE EAST INVESTMENT BANK LTD\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MEIBMYKA"
+	},
+	{
+		"bank_finance" : "\tMIZUHO BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MHCBMYKA"
+	},
+	{
+		"bank_finance" : "\tMIZUHO BANK LTD",
+		"city" : "LABUAN",
+		"branch" : "LABUAN BRANCH\t\t\t\t\t",
+		"swiftcode" : "MHCBMY2L"
+	},
+	{
+		"bank_finance" : "\tMOBILITYONE SDN. BHD.\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "MBSDMYKM"
+	},
+	{
+		"bank_finance" : "\tMUFG BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "BOTKMYKX"
+	},
+	{
+		"bank_finance" : "\tMUFG BANK LTD",
+		"city" : "LABUAN",
+		"branch" : "LABUAN BRANCH\t\t\t\t\t",
+		"swiftcode" : "BOTKMYKA"
+	},
+	{
+		"bank_finance" : "\tNOMURA ASSET MANAGEMENT MALAYSIA SDN BHD\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "NOCMMYKL"
+	},
+	{
+		"bank_finance" : "\tOCBC AL-AMIN BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "OABBMYKL"
+	},
+	{
+		"bank_finance" : "\tOCBC BANK (MALAYSIA) BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "OCBCMYKL"
+	},
+	{
+		"bank_finance" : "\tOVERSEA-CHINESE BANKING CORPORATION LIMITED",
+		"city" : "LABUAN",
+		"branch" : "\tBRANCH LABUAN\t",
+		"swiftcode" : "OCBCMYKA"
+	},
+	{
+		"bank_finance" : "\tPERFECT HEXAGON BANK\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PHCIMY2L"
+	},
+	{
+		"bank_finance" : "\tPERMODALAN NASIONAL BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PERMMYKB"
+	},
+	{
+		"bank_finance" : "\tPERMODALAN NASIONAL BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PERMMYKP"
+	},
+	{
+		"bank_finance" : "\tPETROLIAM NASIONAL BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PTROMYKL"
+	},
+	{
+		"bank_finance" : "\tPETROLIAM NASIONAL BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\tKLCC\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PTROMYKLFSD"
+	},
+	{
+		"bank_finance" : "\tPG ASIA INVESTMENT BANK LTD\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "AINEMY22"
+	},
+	{
+		"bank_finance" : "PUBLIC BANK (L) LTD\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PBLLMYKA"
+	},
+	{
+		"bank_finance" : "\tPUBLIC BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PBBEMYKL"
+	},
+	{
+		"bank_finance" : "\tPUBLIC ISLAMIC BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "PUIBMYKL"
+	},
+	{
+		"bank_finance" : "\tRHB ASSET MANAGEMENT SDN BHD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RHBTMYKL"
+	},
+	{
+		"bank_finance" : "\tRHB BANK (L) LTD\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RHBBMYKA"
+	},
+	{
+		"bank_finance" : "\tRHB BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RHBBMYKL"
+	},
+	{
+		"bank_finance" : "\tRHB INVESTMENT BANK BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "OSKIMYKL"
+	},
+	{
+		"bank_finance" : "\tRHB ISLAMIC BANK BERHAD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "RHBAMYKL"
+	},
+	{
+		"bank_finance" : "\tSAPURA ENERGY BERHAD\t\t\t\t\t\t",
+		"city" : "SERI KEMBANGAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "SEBMMY22"
+	},
+	{
+		"bank_finance" : "\tSTANDARD CHARTERED BANK MALAYSIA BERHAD\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tALL OFFICES IN MALAYSIA\t\t\t\t\t\t",
+		"swiftcode" : "SCBLMYKX"
+	},
+	{
+		"bank_finance" : "\tSTANDARD CHARTERED BANK MALAYSIA BERHAD\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\tLABUAN OFFSHORE BANKING UNIT ONLY\t\t\t\t",
+		"swiftcode" : "SCBLMYKXLAB"
+	},
+	{
+		"bank_finance" : "\tSTANDARD CHARTERED SAADIQ BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "SCSRMYKK"
+	},
+	{
+		"bank_finance" : "\tSUMITOMO MITSUI BANKING CORPORATION\t\t\t\tLABUAN\t\t\t\t\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "",
+		"swiftcode" : "SMBCMYKA"
+	},
+	{
+		"bank_finance" : "\tSUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "SMBCMYKL"
+	},
+	{
+		"bank_finance" : "\tSUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "SMBCMY22"
+	},
+	{
+		"bank_finance" : "SUNWAY MONEY SDN BHD\t\t\t\t\t\t",
+		"city" : "SUBANG",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "SMSHMY22"
+	},
+	{
+		"bank_finance" : "TAICHUNG COMMERCIAL BANK CO.LTD",
+		"city" : "LABUAN\t",
+		"branch" : "LABUAN BRANCH\t",
+		"swiftcode" : "TCBBMY22"
+	},
+	{
+		"bank_finance" : "TAISHIN INTERNATIONAL BANK CO.LTD",
+		"city" : "LABUAN",
+		"branch" : "LABUAN BRANCH",
+		"swiftcode" : "TSIBMY22"
+	},
+	{
+		"bank_finance" : "\tTHE BANK OF NOVA SCOTIA BERHAD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "NOSCMYKL"
+	},
+	{
+		"bank_finance" : "\tTHE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "HSBCMYKA"
+	},
+	{
+		"bank_finance" : "\tTMC SERVICES SDN. BHD.\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "TMCBMYKL"
+	},
+	{
+		"bank_finance" : "\tTML REMITTANCE CENTER SDN. BHD.\t\t\t\t\t",
+		"city" : "BATU PAHAT",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "TRTDMY22"
+	},
+	{
+		"bank_finance" : "\tTRANGLO SDN BHD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "TRLOMYKL"
+	},
+	{
+		"bank_finance" : "\tTROPICANA CORPORATION BERHAD\t\t\t\t\t",
+		"city" : "PETALING JAYA\t",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "TROHMY22"
+	},
+	{
+		"bank_finance" : "\tUNITED OVERSEAS BANK (MALAYSIA) BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "UOVBMYKL"
+	},
+	{
+		"bank_finance" : "UNITED OVERSEAS BANK (MALAYSIA) BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tCUSTODIAN AND NOMINEES DEPARTMENT\t\t\t\t",
+		"swiftcode" : "UOVBMYKLCND"
+	},
+	{
+		"bank_finance" : "\tUNITED OVERSEAS BANK (MALAYSIA) BERHAD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\tTRANSACTION BANKING\t\t\t\t\t\t",
+		"swiftcode" : "UOVBMYKLCMS"
+	},
+	{
+		"bank_finance" : "\tUNITED OVERSEAS BANK LIMITED\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\tBRANCH LABUAN\t\t\t\t\t\t\t",
+		"swiftcode" : "UOVBMY2L"
+	},
+	{
+		"bank_finance" : "\tVCAP ASSET MANAGERS SDN BHD\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "VAMSMYK2"
+	},
+	{
+		"bank_finance" : "\tWAAFI BANK LTD.\t\t\t\t\t\t\t",
+		"city" : "LABUAN",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "WAAFMY2L"
+	},
+	{
+		"bank_finance" : "\tWILHELMSEN SHIP MANAGEMENT SDN BHD\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "WSMHMYKL"
+	},
+	{
+		"bank_finance" : "YINSON HOLDINGS BERHAD.\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "YIHBMYKL"
+	},
+	{
+		"bank_finance" : "CIMB BANK BERHAD\t\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "CIBBMYKLXXX"
+	},
+	{
+		"bank_finance" : "GX BANK BHD\t\t\t\t\t\t",
+		"city" : "KUALA LUMPUR",
+		"branch" : "\t\t\t\t\t\t\t\t\t\t\t",
+		"swiftcode" : "GXSPMYKLXXX"
+	}
+]}

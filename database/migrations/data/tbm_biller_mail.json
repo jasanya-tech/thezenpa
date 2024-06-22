@@ -1,0 +1,153 @@
+{
+"tbm_biller_mail": [
+	{
+		"biller_code" : "200020025",
+		"mailcontent" : "\n\n<p>\n    Welcome abroad to ZaasPay, MZN ADVANCE ENTERPRISE\n<\/p>\n<p>\n    As our new relationship begins, we invite you to discover the inspiration for your next adventure by exploring the many different ways that ZaasPay is changing the way we see and experience the world around us.\n<\/p>\n<p>\n    Please keep this information safe:\n    <br>\n    Login: mzn20025\n    <br>\n    Password: mzn@1234\n    <br>\n    Hashkey: 4ec0de267ff2528dff25828c436961fd\n<\/p>\n<p>\n    <strong>Web Merchant URL:<\/strong>: https:\/\/app.zaaspay.com\/merchant.\n<\/p>\n<p>\n    <strong>Note<\/strong>: Hashkey will be used to access to your payment page.\n<\/p>\n<p>\n    You are now part of the ZaasPay! Get ready to depart on an exciting journey with us! If you prefer something more personal, you can always contact our support team through live chat at support@zaaspay.com.\n<\/p>\n<p>\n    Weâ€™ll be happy to help you!\n<\/p>\n<p>\n    Best regards,\n    <br>\n    ZaasPay\n<\/p>\n\n",
+		"logmail" : 1
+	},
+	{
+		"biller_code" : "200020025",
+		"mailcontent" : "",
+		"logmail" : 2
+	},
+	{
+		"biller_code" : "200020025",
+		"mailcontent" : "",
+		"logmail" : 3
+	},
+	{
+		"biller_code" : "200020027",
+		"mailcontent" : "",
+		"logmail" : 4
+	},
+	{
+		"biller_code" : "200020029",
+		"mailcontent" : "",
+		"logmail" : 5
+	},
+	{
+		"biller_code" : "200020031",
+		"mailcontent" : "",
+		"logmail" : 6
+	},
+	{
+		"biller_code" : "200020032",
+		"mailcontent" : "",
+		"logmail" : 7
+	},
+	{
+		"biller_code" : "200030001",
+		"mailcontent" : "",
+		"logmail" : 8
+	},
+	{
+		"biller_code" : "200030001",
+		"mailcontent" : "",
+		"logmail" : 9
+	},
+	{
+		"biller_code" : "200020005",
+		"mailcontent" : "",
+		"logmail" : 10
+	},
+	{
+		"biller_code" : "200030007",
+		"mailcontent" : "",
+		"logmail" : 11
+	},
+	{
+		"biller_code" : "200030008",
+		"mailcontent" : "",
+		"logmail" : 12
+	},
+	{
+		"biller_code" : "200030009",
+		"mailcontent" : "",
+		"logmail" : 13
+	},
+	{
+		"biller_code" : "200030011",
+		"mailcontent" : "",
+		"logmail" : 14
+	},
+	{
+		"biller_code" : "200030012",
+		"mailcontent" : "",
+		"logmail" : 15
+	},
+	{
+		"biller_code" : "200030013",
+		"mailcontent" : "",
+		"logmail" : 16
+	},
+	{
+		"biller_code" : "200030014",
+		"mailcontent" : "",
+		"logmail" : 17
+	},
+	{
+		"biller_code" : "200020017",
+		"mailcontent" : "",
+		"logmail" : 18
+	},
+	{
+		"biller_code" : "200040022",
+		"mailcontent" : "",
+		"logmail" : 19
+	},
+	{
+		"biller_code" : "200040023",
+		"mailcontent" : "",
+		"logmail" : 20
+	},
+	{
+		"biller_code" : "200040024",
+		"mailcontent" : "",
+		"logmail" : 21
+	},
+	{
+		"biller_code" : "200040025",
+		"mailcontent" : "",
+		"logmail" : 22
+	},
+	{
+		"biller_code" : "200040026",
+		"mailcontent" : "",
+		"logmail" : 23
+	},
+	{
+		"biller_code" : "200020018",
+		"mailcontent" : "",
+		"logmail" : 24
+	},
+	{
+		"biller_code" : "200030013",
+		"mailcontent" : "",
+		"logmail" : 25
+	},
+	{
+		"biller_code" : "200040027",
+		"mailcontent" : "",
+		"logmail" : 26
+	},
+	{
+		"biller_code" : "200040028",
+		"mailcontent" : "",
+		"logmail" : 27
+	},
+	{
+		"biller_code" : "200020005",
+		"mailcontent" : "",
+		"logmail" : 28
+	},
+	{
+		"biller_code" : "200040030",
+		"mailcontent" : "",
+		"logmail" : 29
+	},
+	{
+		"biller_code" : "200040031",
+		"mailcontent" : "",
+		"logmail" : 30
+	}
+]}
